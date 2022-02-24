@@ -10,6 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/adamschappell" rel="nofollow">
-	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
