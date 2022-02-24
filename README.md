@@ -11,8 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 	
-<h3> 📫 Feel free to reach me on LinkedIn: </h3>
-	<br>
+<h4> 📫 Feel free to reach me on LinkedIn: </h4>
 	<a href="https://www.linkedin.com/in/adamschappell" rel="nofollow">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
