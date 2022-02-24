@@ -1,6 +1,6 @@
 <div align="center">
 
-##  👋. Hi there, I'm Adam
+##  👋 Hi there, I'm Adam
 	
 	I am a Dad, a Software Developer, and a US Army Veteran from Texas
 
