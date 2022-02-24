@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 
-	<div align="center> 	🔭 I’m currently working on ...     	</div>
-	<div align="center>	🌱 I’m currently learning ... 		</div>
-	<div align="center>	👯 I’m looking to collaborate on ... 	</div>
-	<div align="center>	🤔 I’m looking for help with ... 	</div>
-	<div align="center>	💬 Ask me about ... 			</div>
-    	<div align="center>	😄 Pronouns: ...			</div>
-	<div align="center>⚡ 	Fun fact: ... 				</div>
+	<div align="center"> 	🔭 I’m currently working on ...     	</div>
+	<div align="center">	🌱 I’m currently learning ... 		</div>
+	<div align="center">	👯 I’m looking to collaborate on ... 	</div>
+	<div align="center">	🤔 I’m looking for help with ... 	</div>
+	<div align="center">	💬 Ask me about ... 			</div>
+    	<div align="center">	😄 Pronouns: ...			</div>
+	<div align="center">	⚡ Fun fact: ... 			</div>
 -->
 	
 <h4> 📫 Feel free to reach me on LinkedIn: </h4>
