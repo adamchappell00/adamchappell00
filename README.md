@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hi there 👋
-	<h2> I'm Adam. </h2>
-	#### I am a Dad, a Software Developer, and a US Army Veteran from Texas
+##  👋. Hi there, I'm Adam
+	
+	I am a Dad, a Software Developer, and a US Army Veteran from Texas
 
 	🔭 I’m currently working on ...     	
 	🌱 I’m currently learning ... 		
