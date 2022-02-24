@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there 👋
-	## I'm Adam.
+	<h2> I'm Adam. </h2>
 	#### I am a Dad, a Software Developer, and a US Army Veteran from Texas
 
 	🔭 I’m currently working on ...     	
