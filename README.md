@@ -6,8 +6,7 @@
 
   	🔭 I’m currently working on a Full Stack Web Application.
   	🌱 I’m currently learning how to use Spring Boot.
-  	👯 I’m looking to collaborate on anything creative!
-  	🤔 I’m looking for Employment Opportunities!
+  	👯 I’m looking for Employment Opportunities & Creative Project Partners!
   	😄 Pronouns: He/Him
 				
 
@@ -34,5 +33,10 @@
 	<a href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60"/></a>
 	<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/></a>
 	<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/></a>
+	<h4> Development Tools </h4> 
+	<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60"/></a>
+	<a href="https://jasmine.github.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="60" width="60"/></a>
+
+
 </div>
 
