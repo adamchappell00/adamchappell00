@@ -33,6 +33,6 @@
 	<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/></a>
 	<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/></a>
 	<hr>
-	![Adam's Profile Views](https://komarev.com/ghpvc/?username=adamchappell00&color=blue)(https://github.com/anuraghazra/github-readme-stats)
+	[![](https://komarev.com/ghpvc/?username=adamchappell00&color=blue)(https://github.com/anuraghazra/github-readme-stats)]
 	<hr>
 </div>
