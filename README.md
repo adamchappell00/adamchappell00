@@ -21,6 +21,7 @@
 	
 
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+	<br>
 	![](https://komarev.com/ghpvc/?username=adamchappell00)
 <hr>
 	<h4> Front End </h4>
