@@ -21,6 +21,7 @@
 	
 
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+	![](https://komarev.com/ghpvc/?username=adamchappell00)
 <hr>
 	<h4> Front End </h4>
 	<a href="https://www.w3.org/html/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60"/> </a>
@@ -33,4 +34,4 @@
 	<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/></a>
 	<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/></a>
 </div>
-![](https://komarev.com/ghpvc/?username=adamchappell00)
+
