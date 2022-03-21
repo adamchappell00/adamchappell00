@@ -7,7 +7,7 @@
   	🔭 I’m currently working on a Full Stack Web Application.
   	🌱 I’m currently learning how to use Spring Boot.
   	👯 I’m looking for Employment Opportunities & Creative Project Partners!
-  	😄 Pronouns: He/Him
+  	:cowboy_hat_face: Pronouns: He/Him
 				
 
 	
