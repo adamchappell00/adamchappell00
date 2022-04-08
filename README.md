@@ -4,8 +4,8 @@
 	
 ###### I am a Dad, a Software Developer, and a US Army Veteran from Texas
 
-  	🔭 I’m currently working on a Full Stack Web Application.
-  	🌱 I’m currently learning how to use Spring Boot.
+  	🔭 I’m currently working on a local artist branding and marketing site as a freelance project.
+  	🌱 I’m currently learning how to integrate JSON responses for external AJAX requests, and then I am looking at integrating payment systems!
   	👯 I’m looking for Employment Opportunities & Creative Project Partners!
   	🤠 Pronouns: He/Him
 				
