@@ -20,7 +20,7 @@
 ![](https://raw.githubusercontent.com/adamchappell00/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <br>
 	
-<!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=damchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
 	
 ![](https://komarev.com/ghpvc/?username=adamchappell00)
