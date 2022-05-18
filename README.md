@@ -19,8 +19,8 @@
 <hr>
 	
 <!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=damchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
-	<br>
-	![](https://komarev.com/ghpvc/?username=adamchappell00)
+	<!--<br>-->
+	[![](https://komarev.com/ghpvc/?username=adamchappell00)
 <hr>
 	<h4> Front End </h4>
 	<a href="https://www.w3.org/html/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60"/> </a>
