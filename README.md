@@ -23,17 +23,17 @@
 	
 ![](https://komarev.com/ghpvc/?username=adamchappell00)
 <hr>
-	
-	<h4> Back End </h4> 
-	<a href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60"/></a>
-	<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/></a>
-	<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/></a>
 	<h4> Front End </h4>
 	<a href="https://www.w3.org/html/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60"/> </a>
 	<a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" /> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60"/></a>
 	<a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  height="60" width="60"/></a>
 	<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="60" /></a>
+	<h4> Back End </h4> 
+	<a href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60"/></a>
+	<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/></a>
+	<a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="60"/></a>
+	
 	<h4> Development Tools </h4> 
 	<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60"/></a>
 	<a href="https://jasmine.github.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="60" width="60"/></a>
