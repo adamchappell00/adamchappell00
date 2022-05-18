@@ -16,13 +16,13 @@
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 <br>
-<hr>
+
 	
 <!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=damchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 	
 	
 	
-	<br>
+	
 	
 ![](https://komarev.com/ghpvc/?username=adamchappell00)
 <hr>
