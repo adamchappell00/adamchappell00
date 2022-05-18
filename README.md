@@ -20,7 +20,8 @@
 
 	
 <!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://raw.githubusercontent.com/username/github-stats/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/adamchappell00/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 	
 ![](https://komarev.com/ghpvc/?username=adamchappell00)
