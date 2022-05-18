@@ -20,7 +20,7 @@
 	
 <!--[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=damchappell00&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 	
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamchappell00&theme=tokyonight" alt="mystreak"/>
+	
 	
 	<br>
 	
