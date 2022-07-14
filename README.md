@@ -6,7 +6,7 @@
 
   	🔭 I’m currently working on personal projects to impliment new skills.
   	🌱 I’m currently looking to learn React!
-  	👯 I’m looking for Employment Opportunities & Creative Project Partners!
+  	👯 I am currently Employed but always open to learning and doing creative projects!
   	🤠 Pronouns: He/Him
 				
 
