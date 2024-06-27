@@ -4,9 +4,9 @@
 	
 ###### I am a Dad, a Software Developer, and a US Army Veteran from Texas
 
-  	🔭 I’m currently working on personal projects to impliment new skills.
-  	🌱 I’m currently looking to learn React!
-  	👯 I am currently Employed but always open to learning and doing creative projects!
+  	🔭 I’m currently working on personal and freelance projects to impliment new skills.
+  	🌱 I’m currently transferring web and database skills to desktop applications with JavaFX and Swing!
+  	👯 I am currently open to new contracts and full time employment!
   	🤠 Pronouns: He/Him
 				
 
